@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9cc?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 
