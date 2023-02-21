@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Github Basic
 
@@ -16,3 +17,6 @@ git checkout my-level
 3. 변경 및 커밋 | confirm changes component
 4. 풀 리퀘스트 열기
 5. 풀 리퀘스트 병합
+=======
+"readme-edits"
+>>>>>>> 0bcffde561ea5bf896da1a69c0760e7712c3fa63
